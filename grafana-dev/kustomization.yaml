@@ -1,0 +1,6 @@
+resources:
+- ./rbac/cluster-role-binding.yaml
+- ./rbac/cluster-role.yaml
+- ./rbac/sa.yaml
+- grafana-dev-job.yaml
+- post-sync-job.yaml
